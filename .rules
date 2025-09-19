@@ -1,0 +1,15 @@
+## Project Context
+This project reimagines secure last-mile delivery by preventing OTP-related scams. Traditional eCommerce OTPs (sent via SMS) can be leaked, misused by fake agents, or socially engineered. In this system, the delivery agent only presents a secure QR code linked to the order. The customer scans it, views the order details, and generates a fresh OTP in real-time — which is entered by the customer alone. Once verified, the backend marks the order as delivered. No OTP is ever known to the agent. This strengthens trust and eliminates unauthorized package handoffs, fitting under the "Building trust in retail with cybersecurity" hackathon theme.
+
+## Core Features
+✅ QR generation (order-specific & signed)
+
+✅ Customer-only OTP generation
+
+✅ Real-time OTP verification
+
+✅ Secure delivery confirmation
+
+✅ Delivery logs with timestamps and optional location
+
+✅ Admin panel (optional) to view delivery history
