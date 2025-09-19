@@ -19,7 +19,7 @@ INSERT INTO public.orders (
     'ORD-2024-001', 
     '9b0606c7-64b6-42c3-b2a2-7163c4404472', 
     '9b0606c7-64b6-42c3-b2a2-7163c4404472',
-    'Jatin Yadav', 
+    'Test Customer', 
     '+1234567894', 
     '123 Main Street, Downtown, City 12345', 
     '[{"name": "Smartphone", "quantity": 1, "price": 599.99}, {"name": "Phone Case", "quantity": 1, "price": 25.99}]', 
