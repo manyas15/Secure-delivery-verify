@@ -45,6 +45,14 @@ TWILIO-*.md
 *-DEBUG.md
 *-FIX.md
 FIND-*.md
+SMS-OTP-*.md
+
+# Development test files with personal data
+test-*.js
+create-test-*.js
+check-*.sql
+clear-*.js
+debug-*.js
 
 # Any files containing API keys, tokens, or secrets
 *secret*
