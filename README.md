@@ -7,6 +7,9 @@
 
 **SecureDrop** is a revolutionary delivery verification system that prevents fake delivery agents and OTP scams by implementing on-the-spot QR code generation and instant verification. The system ensures customers can verify authentic deliveries in just a few seconds, preventing potential cyber crimes.
 
+
+*"Few seconds to verify, prevent cyber crime" - SecureDrop's mission to make deliveries safer for everyone*
+
 ---
 
 ## 👥 Project Team
@@ -209,4 +212,3 @@ For support and questions:
 
 **Built with ❤️ by our development team**
 
-*"Few seconds to verify, prevent cyber crime" - SecureDrop's mission to make deliveries safer for everyone*
